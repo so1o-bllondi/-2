@@ -1,0 +1,11 @@
+@startuml
+skinparam defaultFontName Arial
+
+  "Serilog" --> "System.Threading.Channels"
+  "Serilog" --> "System.ValueTuple"
+  "Serilog" --> "System.Diagnostics.DiagnosticSource"
+  "System.Threading.Channels" --> "Microsoft.Bcl.AsyncInterfaces"
+  "System.Threading.Channels" --> "System.Threading.Tasks.Extensions"
+  "System.Diagnostics.DiagnosticSource" --> "System.Memory"
+  "System.Diagnostics.DiagnosticSource" --> "System.Runtime.CompilerServices.Unsafe"
+@enduml

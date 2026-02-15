@@ -1,0 +1,5 @@
+{
+  "MyApp": ["Serilog.Sinks.Console"],
+  "Serilog.Sinks.Console": ["Serilog"],
+  "Serilog": []
+}

@@ -1,0 +1,9 @@
+{
+  "package_name": "Azure.Core",
+  "repository": "https://api.nuget.org/v3/index.json",
+  "mode": "nuget",
+  "filter_substring": "",
+  "output_file": "graph",
+  "ascii_tree": false,
+  "max_depth": 0
+}

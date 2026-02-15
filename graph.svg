@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+<defs><style>.node { fill: #e1f5fe; stroke: #01579b; } .edge { stroke: #37474f; fill: none; } .label { font: 12px sans-serif; }</style></defs>
+  <line class="edge" x1="110" y1="68" x2="300" y2="40"/>
+  <line class="edge" x1="110" y1="68" x2="680" y2="40"/>
+  <line class="edge" x1="110" y1="68" x2="490" y2="108"/>
+  <line class="edge" x1="110" y1="68" x2="110" y2="108"/>
+  <line class="edge" x1="110" y1="68" x2="110" y2="176"/>
+  <line class="edge" x1="110" y1="68" x2="680" y2="108"/>
+  <line class="edge" x1="110" y1="68" x2="490" y2="176"/>
+  <line class="edge" x1="110" y1="68" x2="680" y2="176"/>
+  <line class="edge" x1="300" y1="68" x2="490" y2="40"/>
+  <line class="edge" x1="680" y1="68" x2="490" y2="40"/>
+  <line class="edge" x1="680" y1="68" x2="870" y2="40"/>
+  <line class="edge" x1="870" y1="68" x2="490" y2="40"/>
+  <line class="edge" x1="870" y1="68" x2="110" y2="108"/>
+  <line class="edge" x1="870" y1="68" x2="300" y2="108"/>
+  <line class="edge" x1="490" y1="136" x2="680" y2="108"/>
+  <line class="edge" x1="490" y1="136" x2="870" y2="40"/>
+  <line class="edge" x1="680" y1="136" x2="300" y2="40"/>
+  <line class="edge" x1="680" y1="136" x2="870" y2="108"/>
+  <line class="edge" x1="680" y1="136" x2="300" y2="108"/>
+  <line class="edge" x1="680" y1="136" x2="490" y2="40"/>
+  <line class="edge" x1="680" y1="136" x2="110" y2="176"/>
+  <line class="edge" x1="680" y1="136" x2="300" y2="176"/>
+  <line class="edge" x1="680" y1="136" x2="490" y2="176"/>
+  <line class="edge" x1="680" y1="136" x2="870" y2="40"/>
+  <line class="edge" x1="110" y1="204" x2="300" y2="40"/>
+  <line class="edge" x1="300" y1="204" x2="300" y2="40"/>
+  <line class="edge" x1="300" y1="204" x2="300" y2="108"/>
+  <line class="edge" x1="300" y1="204" x2="870" y2="40"/>
+  <line class="edge" x1="490" y1="204" x2="490" y2="40"/>
+  <line class="edge" x1="490" y1="204" x2="300" y2="108"/>
+  <line class="edge" x1="490" y1="204" x2="870" y2="40"/>
+  <line class="edge" x1="680" y1="204" x2="870" y2="176"/>
+  <line class="edge" x1="680" y1="204" x2="680" y2="40"/>
+  <line class="edge" x1="680" y1="204" x2="300" y2="244"/>
+  <line class="edge" x1="680" y1="204" x2="490" y2="108"/>
+  <line class="edge" x1="680" y1="204" x2="680" y2="108"/>
+  <line class="edge" x1="680" y1="204" x2="680" y2="244"/>
+  <line class="edge" x1="870" y1="204" x2="110" y2="244"/>
+  <line class="edge" x1="870" y1="204" x2="300" y2="108"/>
+  <line class="edge" x1="870" y1="204" x2="680" y2="40"/>
+  <line class="edge" x1="870" y1="204" x2="870" y2="40"/>
+  <line class="edge" x1="110" y1="272" x2="110" y2="176"/>
+  <line class="edge" x1="110" y1="272" x2="300" y2="40"/>
+  <line class="edge" x1="300" y1="272" x2="870" y2="108"/>
+  <line class="edge" x1="300" y1="272" x2="490" y2="244"/>
+  <line class="edge" x1="490" y1="272" x2="490" y2="40"/>
+  <line class="edge" x1="490" y1="272" x2="870" y2="40"/>
+  <line class="edge" x1="680" y1="272" x2="870" y2="244"/>
+  <line class="edge" x1="680" y1="272" x2="300" y2="40"/>
+  <line class="edge" x1="680" y1="272" x2="870" y2="176"/>
+  <line class="edge" x1="680" y1="272" x2="300" y2="244"/>
+  <line class="edge" x1="680" y1="272" x2="110" y2="176"/>
+  <line class="edge" x1="680" y1="272" x2="110" y2="312"/>
+  <line class="edge" x1="680" y1="272" x2="110" y2="244"/>
+  <line class="edge" x1="870" y1="272" x2="490" y2="244"/>
+  <line class="edge" x1="110" y1="340" x2="680" y2="40"/>
+  <line class="edge" x1="110" y1="340" x2="300" y2="108"/>
+  <line class="edge" x1="110" y1="340" x2="300" y2="312"/>
+  <line class="edge" x1="110" y1="340" x2="110" y2="244"/>
+  <line class="edge" x1="110" y1="340" x2="870" y2="40"/>
+  <line class="edge" x1="300" y1="340" x2="490" y2="312"/>
+  <line class="edge" x1="300" y1="340" x2="110" y2="244"/>
+  <line class="edge" x1="300" y1="340" x2="490" y2="244"/>
+  <line class="edge" x1="300" y1="340" x2="870" y2="108"/>
+  <line class="edge" x1="490" y1="340" x2="680" y2="312"/>
+  <line class="edge" x1="490" y1="340" x2="490" y2="380"/>
+  <line class="edge" x1="680" y1="340" x2="870" y2="312"/>
+  <line class="edge" x1="870" y1="340" x2="110" y2="380"/>
+  <line class="edge" x1="870" y1="340" x2="300" y2="380"/>
+  <line class="edge" x1="490" y1="408" x2="680" y2="380"/>
+  <line class="edge" x1="490" y1="408" x2="110" y2="448"/>
+  <line class="edge" x1="490" y1="408" x2="870" y2="380"/>
+  <line class="edge" x1="490" y1="408" x2="300" y2="448"/>
+  <line class="edge" x1="490" y1="408" x2="870" y2="516"/>
+  <line class="edge" x1="490" y1="408" x2="300" y2="584"/>
+  <line class="edge" x1="490" y1="408" x2="110" y2="516"/>
+  <line class="edge" x1="490" y1="408" x2="490" y2="652"/>
+  <line class="edge" x1="490" y1="408" x2="870" y2="652"/>
+  <line class="edge" x1="490" y1="408" x2="490" y2="584"/>
+  <line class="edge" x1="490" y1="408" x2="870" y2="584"/>
+  <line class="edge" x1="490" y1="408" x2="110" y2="720"/>
+  <line class="edge" x1="490" y1="408" x2="300" y2="720"/>
+  <line class="edge" x1="490" y1="408" x2="490" y2="448"/>
+  <line class="edge" x1="490" y1="408" x2="870" y2="312"/>
+  <line class="edge" x1="490" y1="408" x2="490" y2="720"/>
+  <line class="edge" x1="490" y1="408" x2="680" y2="516"/>
+  <line class="edge" x1="490" y1="408" x2="680" y2="652"/>
+  <line class="edge" x1="490" y1="408" x2="300" y2="652"/>
+  <line class="edge" x1="490" y1="408" x2="680" y2="720"/>
+  <line class="edge" x1="490" y1="408" x2="870" y2="720"/>
+  <line class="edge" x1="490" y1="408" x2="490" y2="1128"/>
+  <line class="edge" x1="490" y1="408" x2="490" y2="516"/>
+  <line class="edge" x1="490" y1="408" x2="680" y2="1128"/>
+  <line class="edge" x1="490" y1="408" x2="110" y2="1264"/>
+  <line class="edge" x1="490" y1="408" x2="300" y2="1264"/>
+  <line class="edge" x1="490" y1="408" x2="110" y2="1332"/>
+  <line class="edge" x1="490" y1="408" x2="300" y2="788"/>
+  <line class="edge" x1="490" y1="408" x2="300" y2="1332"/>
+  <line class="edge" x1="490" y1="408" x2="490" y2="1264"/>
+  <line class="edge" x1="490" y1="408" x2="490" y2="788"/>
+  <line class="edge" x1="490" y1="408" x2="680" y2="1264"/>
+  <line class="edge" x1="490" y1="408" x2="680" y2="448"/>
+  <line class="edge" x1="490" y1="408" x2="870" y2="448"/>
+  <line class="edge" x1="490" y1="408" x2="870" y2="992"/>
+  <line class="edge" x1="490" y1="408" x2="490" y2="1332"/>
+  <line class="edge" x1="490" y1="408" x2="300" y2="516"/>
+  <line class="edge" x1="490" y1="408" x2="110" y2="1196"/>
+  <line class="edge" x1="490" y1="408" x2="110" y2="584"/>
+  <line class="edge" x1="490" y1="408" x2="680" y2="1332"/>
+  <line class="edge" x1="490" y1="408" x2="110" y2="380"/>
+  <line class="edge" x1="490" y1="408" x2="300" y2="1400"/>
+  <line class="edge" x1="490" y1="408" x2="490" y2="1060"/>
+  <line class="edge" x1="490" y1="408" x2="870" y2="1264"/>
+  <line class="edge" x1="680" y1="408" x2="870" y2="312"/>
+  <line class="edge" x1="680" y1="408" x2="870" y2="380"/>
+  <line class="edge" x1="870" y1="408" x2="110" y2="380"/>
+  <line class="edge" x1="870" y1="408" x2="870" y2="312"/>
+  <line class="edge" x1="870" y1="408" x2="300" y2="380"/>
+  <line class="edge" x1="110" y1="476" x2="110" y2="380"/>
+  <line class="edge" x1="110" y1="476" x2="870" y2="312"/>
+  <line class="edge" x1="110" y1="476" x2="300" y2="380"/>
+  <line class="edge" x1="300" y1="476" x2="680" y2="380"/>
+  <line class="edge" x1="300" y1="476" x2="490" y2="448"/>
+  <line class="edge" x1="300" y1="476" x2="870" y2="312"/>
+  <line class="edge" x1="300" y1="476" x2="680" y2="516"/>
+  <line class="edge" x1="490" y1="476" x2="870" y2="312"/>
+  <line class="edge" x1="490" y1="476" x2="680" y2="448"/>
+  <line class="edge" x1="490" y1="476" x2="110" y2="380"/>
+  <line class="edge" x1="490" y1="476" x2="490" y2="516"/>
+  <line class="edge" x1="490" y1="476" x2="300" y2="380"/>
+  <line class="edge" x1="680" y1="476" x2="870" y2="312"/>
+  <line class="edge" x1="680" y1="476" x2="300" y2="380"/>
+  <line class="edge" x1="680" y1="476" x2="110" y2="380"/>
+  <line class="edge" x1="680" y1="476" x2="870" y2="448"/>
+  <line class="edge" x1="680" y1="476" x2="300" y2="516"/>
+  <line class="edge" x1="870" y1="476" x2="870" y2="312"/>
+  <line class="edge" x1="870" y1="476" x2="110" y2="380"/>
+  <line class="edge" x1="870" y1="476" x2="870" y2="380"/>
+  <line class="edge" x1="870" y1="476" x2="110" y2="516"/>
+  <line class="edge" x1="870" y1="476" x2="300" y2="380"/>
+  <line class="edge" x1="110" y1="544" x2="110" y2="380"/>
+  <line class="edge" x1="110" y1="544" x2="870" y2="312"/>
+  <line class="edge" x1="110" y1="544" x2="300" y2="380"/>
+  <line class="edge" x1="300" y1="544" x2="110" y2="380"/>
+  <line class="edge" x1="300" y1="544" x2="870" y2="312"/>
+  <line class="edge" x1="300" y1="544" x2="300" y2="380"/>
+  <line class="edge" x1="490" y1="544" x2="110" y2="380"/>
+  <line class="edge" x1="490" y1="544" x2="870" y2="312"/>
+  <line class="edge" x1="490" y1="544" x2="300" y2="380"/>
+  <line class="edge" x1="680" y1="544" x2="110" y2="380"/>
+  <line class="edge" x1="680" y1="544" x2="870" y2="312"/>
+  <line class="edge" x1="680" y1="544" x2="300" y2="380"/>
+  <line class="edge" x1="870" y1="544" x2="490" y2="448"/>
+  <line class="edge" x1="870" y1="544" x2="870" y2="312"/>
+  <line class="edge" x1="870" y1="544" x2="680" y2="380"/>
+  <line class="edge" x1="870" y1="544" x2="110" y2="584"/>
+  <line class="edge" x1="870" y1="544" x2="870" y2="448"/>
+  <line class="edge" x1="870" y1="544" x2="870" y2="380"/>
+  <line class="edge" x1="870" y1="544" x2="490" y2="516"/>
+  <line class="edge" x1="110" y1="612" x2="110" y2="380"/>
+  <line class="edge" x1="110" y1="612" x2="870" y2="312"/>
+  <line class="edge" x1="110" y1="612" x2="300" y2="380"/>
+  <line class="edge" x1="300" y1="612" x2="490" y2="584"/>
+  <line class="edge" x1="300" y1="612" x2="680" y2="584"/>
+  <line class="edge" x1="300" y1="612" x2="870" y2="584"/>
+  <line class="edge" x1="300" y1="612" x2="490" y2="448"/>
+  <line class="edge" x1="300" y1="612" x2="870" y2="312"/>
+  <line class="edge" x1="300" y1="612" x2="680" y2="380"/>
+  <line class="edge" x1="300" y1="612" x2="110" y2="584"/>
+  <line class="edge" x1="300" y1="612" x2="300" y2="108"/>
+  <line class="edge" x1="300" y1="612" x2="110" y2="652"/>
+  <line class="edge" x1="300" y1="612" x2="680" y2="516"/>
+  <line class="edge" x1="300" y1="612" x2="110" y2="380"/>
+  <line class="edge" x1="300" y1="612" x2="300" y2="652"/>
+  <line class="edge" x1="300" y1="612" x2="870" y2="448"/>
+  <line class="edge" x1="300" y1="612" x2="870" y2="380"/>
+  <line class="edge" x1="300" y1="612" x2="110" y2="516"/>
+  <line class="edge" x1="490" y1="612" x2="110" y2="380"/>
+  <line class="edge" x1="490" y1="612" x2="870" y2="312"/>
+  <line class="edge" x1="490" y1="612" x2="300" y2="380"/>
+  <line class="edge" x1="680" y1="612" x2="110" y2="380"/>
+  <line class="edge" x1="680" y1="612" x2="300" y2="380"/>
+  <line class="edge" x1="870" y1="612" x2="110" y2="380"/>
+  <line class="edge" x1="870" y1="612" x2="870" y2="312"/>
+  <line class="edge" x1="870" y1="612" x2="300" y2="380"/>
+  <line class="edge" x1="110" y1="680" x2="110" y2="380"/>
+  <line class="edge" x1="110" y1="680" x2="300" y2="380"/>
+  <line class="edge" x1="300" y1="680" x2="870" y2="584"/>
+  <line class="edge" x1="300" y1="680" x2="870" y2="312"/>
+  <line class="edge" x1="300" y1="680" x2="300" y2="380"/>
+  <line class="edge" x1="300" y1="680" x2="680" y2="448"/>
+  <line class="edge" x1="300" y1="680" x2="110" y2="380"/>
+  <line class="edge" x1="300" y1="680" x2="300" y2="516"/>
+  <line class="edge" x1="490" y1="680" x2="870" y2="584"/>
+  <line class="edge" x1="490" y1="680" x2="870" y2="312"/>
+  <line class="edge" x1="490" y1="680" x2="680" y2="652"/>
+  <line class="edge" x1="490" y1="680" x2="110" y2="380"/>
+  <line class="edge" x1="490" y1="680" x2="870" y2="448"/>
+  <line class="edge" x1="490" y1="680" x2="870" y2="380"/>
+  <line class="edge" x1="490" y1="680" x2="110" y2="516"/>
+  <line class="edge" x1="490" y1="680" x2="300" y2="380"/>
+  <line class="edge" x1="680" y1="680" x2="870" y2="312"/>
+  <line class="edge" x1="870" y1="680" x2="110" y2="380"/>
+  <line class="edge" x1="870" y1="680" x2="870" y2="312"/>
+  <line class="edge" x1="870" y1="680" x2="300" y2="380"/>
+  <line class="edge" x1="110" y1="748" x2="110" y2="380"/>
+  <line class="edge" x1="110" y1="748" x2="870" y2="312"/>
+  <line class="edge" x1="110" y1="748" x2="300" y2="380"/>
+  <line class="edge" x1="110" y1="748" x2="680" y2="448"/>
+  <line class="edge" x1="300" y1="748" x2="490" y2="448"/>
+  <line class="edge" x1="300" y1="748" x2="110" y2="720"/>
+  <line class="edge" x1="300" y1="748" x2="870" y2="312"/>
+  <line class="edge" x1="300" y1="748" x2="680" y2="380"/>
+  <line class="edge" x1="300" y1="748" x2="110" y2="652"/>
+  <line class="edge" x1="300" y1="748" x2="680" y2="448"/>
+  <line class="edge" x1="300" y1="748" x2="110" y2="380"/>
+  <line class="edge" x1="300" y1="748" x2="300" y2="652"/>
+  <line class="edge" x1="490" y1="748" x2="490" y2="584"/>
+  <line class="edge" x1="490" y1="748" x2="490" y2="448"/>
+  <line class="edge" x1="490" y1="748" x2="870" y2="312"/>
+  <line class="edge" x1="490" y1="748" x2="680" y2="380"/>
+  <line class="edge" x1="490" y1="748" x2="110" y2="448"/>
+  <line class="edge" x1="490" y1="748" x2="110" y2="584"/>
+  <line class="edge" x1="490" y1="748" x2="680" y2="516"/>
+  <line class="edge" x1="490" y1="748" x2="680" y2="448"/>
+  <line class="edge" x1="490" y1="748" x2="870" y2="380"/>
+  <line class="edge" x1="490" y1="748" x2="490" y2="516"/>
+  <line class="edge" x1="680" y1="748" x2="680" y2="380"/>
+  <line class="edge" x1="680" y1="748" x2="870" y2="516"/>
+  <line class="edge" x1="680" y1="748" x2="110" y2="516"/>
+  <line class="edge" x1="680" y1="748" x2="490" y2="652"/>
+  <line class="edge" x1="680" y1="748" x2="490" y2="584"/>
+  <line class="edge" x1="680" y1="748" x2="870" y2="584"/>
+  <line class="edge" x1="680" y1="748" x2="490" y2="448"/>
+  <line class="edge" x1="680" y1="748" x2="870" y2="312"/>
+  <line class="edge" x1="680" y1="748" x2="680" y2="516"/>
+  <line class="edge" x1="680" y1="748" x2="680" y2="652"/>
+  <line class="edge" x1="680" y1="748" x2="300" y2="652"/>
+  <line class="edge" x1="680" y1="748" x2="870" y2="720"/>
+  <line class="edge" x1="680" y1="748" x2="110" y2="788"/>
+  <line class="edge" x1="680" y1="748" x2="490" y2="516"/>
+  <line class="edge" x1="680" y1="748" x2="680" y2="788"/>
+  <line class="edge" x1="680" y1="748" x2="870" y2="1060"/>
+  <line class="edge" x1="680" y1="748" x2="300" y2="788"/>
+  <line class="edge" x1="680" y1="748" x2="110" y2="652"/>
+  <line class="edge" x1="680" y1="748" x2="870" y2="448"/>
+  <line class="edge" x1="680" y1="748" x2="870" y2="992"/>
+  <line class="edge" x1="680" y1="748" x2="110" y2="1128"/>
+  <line class="edge" x1="680" y1="748" x2="110" y2="584"/>
+  <line class="edge" x1="680" y1="748" x2="110" y2="380"/>
+  <line class="edge" x1="680" y1="748" x2="490" y2="1060"/>
+  <line class="edge" x1="680" y1="748" x2="300" y2="1128"/>
+  <line class="edge" x1="870" y1="748" x2="110" y2="380"/>
+  <line class="edge" x1="870" y1="748" x2="870" y2="312"/>
+  <line class="edge" x1="870" y1="748" x2="300" y2="380"/>
+  <line class="edge" x1="870" y1="748" x2="490" y2="516"/>
+  <line class="edge" x1="110" y1="816" x2="490" y2="584"/>
+  <line class="edge" x1="110" y1="816" x2="870" y2="584"/>
+  <line class="edge" x1="110" y1="816" x2="300" y2="788"/>
+  <line class="edge" x1="110" y1="816" x2="490" y2="448"/>
+  <line class="edge" x1="110" y1="816" x2="870" y2="312"/>
+  <line class="edge" x1="110" y1="816" x2="110" y2="380"/>
+  <line class="edge" x1="110" y1="816" x2="300" y2="652"/>
+  <line class="edge" x1="110" y1="816" x2="870" y2="448"/>
+  <line class="edge" x1="110" y1="816" x2="870" y2="992"/>
+  <line class="edge" x1="110" y1="816" x2="680" y2="1060"/>
+  <line class="edge" x1="110" y1="816" x2="870" y2="516"/>
+  <line class="edge" x1="110" y1="816" x2="110" y2="516"/>
+  <line class="edge" x1="300" y1="816" x2="490" y2="584"/>
+  <line class="edge" x1="300" y1="816" x2="870" y2="584"/>
+  <line class="edge" x1="300" y1="816" x2="490" y2="448"/>
+  <line class="edge" x1="300" y1="816" x2="870" y2="312"/>
+  <line class="edge" x1="300" y1="816" x2="490" y2="788"/>
+  <line class="edge" x1="300" y1="816" x2="490" y2="720"/>
+  <line class="edge" x1="300" y1="816" x2="680" y2="516"/>
+  <line class="edge" x1="300" y1="816" x2="110" y2="380"/>
+  <line class="edge" x1="300" y1="816" x2="300" y2="652"/>
+  <line class="edge" x1="300" y1="816" x2="870" y2="516"/>
+  <line class="edge" x1="300" y1="816" x2="680" y2="788"/>
+  <line class="edge" x1="300" y1="816" x2="110" y2="516"/>
+  <line class="edge" x1="490" y1="816" x2="490" y2="584"/>
+  <line class="edge" x1="490" y1="816" x2="490" y2="448"/>
+  <line class="edge" x1="490" y1="816" x2="870" y2="312"/>
+  <line class="edge" x1="490" y1="816" x2="110" y2="584"/>
+  <line class="edge" x1="490" y1="816" x2="680" y2="516"/>
+  <line class="edge" x1="680" y1="816" x2="870" y2="788"/>
+  <line class="edge" x1="680" y1="816" x2="110" y2="856"/>
+  <line class="edge" x1="680" y1="816" x2="300" y2="856"/>
+  <line class="edge" x1="680" y1="816" x2="490" y2="856"/>
+  <line class="edge" x1="680" y1="816" x2="680" y2="856"/>
+  <line class="edge" x1="680" y1="816" x2="870" y2="856"/>
+  <line class="edge" x1="680" y1="816" x2="110" y2="924"/>
+  <line class="edge" x1="680" y1="816" x2="300" y2="924"/>
+  <line class="edge" x1="680" y1="816" x2="490" y2="924"/>
+  <line class="edge" x1="680" y1="816" x2="680" y2="924"/>
+  <line class="edge" x1="680" y1="816" x2="870" y2="924"/>
+  <line class="edge" x1="680" y1="816" x2="110" y2="992"/>
+  <line class="edge" x1="680" y1="816" x2="300" y2="992"/>
+  <line class="edge" x1="680" y1="816" x2="490" y2="992"/>
+  <line class="edge" x1="680" y1="816" x2="680" y2="992"/>
+  <line class="edge" x1="870" y1="1020" x2="680" y2="788"/>
+  <line class="edge" x1="870" y1="1020" x2="490" y2="584"/>
+  <line class="edge" x1="870" y1="1020" x2="870" y2="584"/>
+  <line class="edge" x1="870" y1="1020" x2="300" y2="788"/>
+  <line class="edge" x1="870" y1="1020" x2="870" y2="312"/>
+  <line class="edge" x1="870" y1="1020" x2="490" y2="448"/>
+  <line class="edge" x1="870" y1="1020" x2="680" y2="516"/>
+  <line class="edge" x1="870" y1="1020" x2="110" y2="380"/>
+  <line class="edge" x1="870" y1="1020" x2="300" y2="652"/>
+  <line class="edge" x1="870" y1="1020" x2="110" y2="1060"/>
+  <line class="edge" x1="870" y1="1020" x2="870" y2="448"/>
+  <line class="edge" x1="870" y1="1020" x2="490" y2="1060"/>
+  <line class="edge" x1="870" y1="1020" x2="870" y2="516"/>
+  <line class="edge" x1="870" y1="1020" x2="110" y2="516"/>
+  <line class="edge" x1="110" y1="1088" x2="300" y2="1060"/>
+  <line class="edge" x1="490" y1="1088" x2="490" y2="584"/>
+  <line class="edge" x1="490" y1="1088" x2="490" y2="448"/>
+  <line class="edge" x1="490" y1="1088" x2="870" y2="312"/>
+  <line class="edge" x1="490" y1="1088" x2="490" y2="516"/>
+  <line class="edge" x1="680" y1="1088" x2="870" y2="108"/>
+  <line class="edge" x1="680" y1="1088" x2="870" y2="40"/>
+  <line class="edge" x1="870" y1="1088" x2="490" y2="584"/>
+  <line class="edge" x1="870" y1="1088" x2="870" y2="584"/>
+  <line class="edge" x1="870" y1="1088" x2="300" y2="788"/>
+  <line class="edge" x1="870" y1="1088" x2="490" y2="448"/>
+  <line class="edge" x1="870" y1="1088" x2="870" y2="312"/>
+  <line class="edge" x1="870" y1="1088" x2="680" y2="380"/>
+  <line class="edge" x1="870" y1="1088" x2="680" y2="448"/>
+  <line class="edge" x1="870" y1="1088" x2="110" y2="380"/>
+  <line class="edge" x1="870" y1="1088" x2="300" y2="652"/>
+  <line class="edge" x1="870" y1="1088" x2="870" y2="448"/>
+  <line class="edge" x1="870" y1="1088" x2="870" y2="992"/>
+  <line class="edge" x1="870" y1="1088" x2="870" y2="516"/>
+  <line class="edge" x1="870" y1="1088" x2="110" y2="516"/>
+  <line class="edge" x1="110" y1="1156" x2="490" y2="584"/>
+  <line class="edge" x1="110" y1="1156" x2="870" y2="584"/>
+  <line class="edge" x1="110" y1="1156" x2="300" y2="788"/>
+  <line class="edge" x1="110" y1="1156" x2="490" y2="448"/>
+  <line class="edge" x1="110" y1="1156" x2="870" y2="312"/>
+  <line class="edge" x1="110" y1="1156" x2="680" y2="516"/>
+  <line class="edge" x1="110" y1="1156" x2="110" y2="380"/>
+  <line class="edge" x1="110" y1="1156" x2="300" y2="652"/>
+  <line class="edge" x1="110" y1="1156" x2="870" y2="448"/>
+  <line class="edge" x1="110" y1="1156" x2="870" y2="992"/>
+  <line class="edge" x1="110" y1="1156" x2="680" y2="1060"/>
+  <line class="edge" x1="110" y1="1156" x2="490" y2="1060"/>
+  <line class="edge" x1="110" y1="1156" x2="870" y2="516"/>
+  <line class="edge" x1="110" y1="1156" x2="110" y2="516"/>
+  <line class="edge" x1="300" y1="1156" x2="110" y2="380"/>
+  <line class="edge" x1="300" y1="1156" x2="300" y2="380"/>
+  <line class="edge" x1="490" y1="1156" x2="110" y2="380"/>
+  <line class="edge" x1="490" y1="1156" x2="870" y2="312"/>
+  <line class="edge" x1="490" y1="1156" x2="300" y2="380"/>
+  <line class="edge" x1="680" y1="1156" x2="490" y2="584"/>
+  <line class="edge" x1="680" y1="1156" x2="110" y2="720"/>
+  <line class="edge" x1="680" y1="1156" x2="870" y2="1128"/>
+  <line class="edge" x1="680" y1="1156" x2="490" y2="448"/>
+  <line class="edge" x1="680" y1="1156" x2="870" y2="312"/>
+  <line class="edge" x1="680" y1="1156" x2="680" y2="380"/>
+  <line class="edge" x1="680" y1="1156" x2="490" y2="788"/>
+  <line class="edge" x1="680" y1="1156" x2="110" y2="1196"/>
+  <line class="edge" x1="680" y1="1156" x2="110" y2="584"/>
+  <line class="edge" x1="680" y1="1156" x2="300" y2="1196"/>
+  <line class="edge" x1="680" y1="1156" x2="680" y2="516"/>
+  <line class="edge" x1="680" y1="1156" x2="680" y2="448"/>
+  <line class="edge" x1="680" y1="1156" x2="870" y2="448"/>
+  <line class="edge" x1="680" y1="1156" x2="490" y2="1196"/>
+  <line class="edge" x1="680" y1="1156" x2="490" y2="516"/>
+  <line class="edge" x1="680" y1="1156" x2="680" y2="1196"/>
+  <line class="edge" x1="680" y1="1156" x2="300" y2="516"/>
+  <line class="edge" x1="870" y1="1156" x2="870" y2="312"/>
+  <line class="edge" x1="870" y1="1156" x2="490" y2="448"/>
+  <line class="edge" x1="870" y1="1156" x2="300" y2="516"/>
+  <line class="edge" x1="870" y1="1156" x2="680" y2="448"/>
+  <line class="edge" x1="110" y1="1224" x2="490" y2="448"/>
+  <line class="edge" x1="110" y1="1224" x2="870" y2="312"/>
+  <line class="edge" x1="110" y1="1224" x2="680" y2="380"/>
+  <line class="edge" x1="110" y1="1224" x2="110" y2="584"/>
+  <line class="edge" x1="110" y1="1224" x2="680" y2="516"/>
+  <line class="edge" x1="300" y1="1224" x2="870" y2="312"/>
+  <line class="edge" x1="300" y1="1224" x2="490" y2="448"/>
+  <line class="edge" x1="300" y1="1224" x2="870" y2="1128"/>
+  <line class="edge" x1="300" y1="1224" x2="680" y2="448"/>
+  <line class="edge" x1="300" y1="1224" x2="300" y2="516"/>
+  <line class="edge" x1="490" y1="1224" x2="490" y2="448"/>
+  <line class="edge" x1="490" y1="1224" x2="870" y2="1128"/>
+  <line class="edge" x1="490" y1="1224" x2="870" y2="312"/>
+  <line class="edge" x1="490" y1="1224" x2="680" y2="448"/>
+  <line class="edge" x1="490" y1="1224" x2="300" y2="652"/>
+  <line class="edge" x1="490" y1="1224" x2="870" y2="448"/>
+  <line class="edge" x1="490" y1="1224" x2="300" y2="516"/>
+  <line class="edge" x1="680" y1="1224" x2="490" y2="584"/>
+  <line class="edge" x1="680" y1="1224" x2="490" y2="448"/>
+  <line class="edge" x1="680" y1="1224" x2="870" y2="312"/>
+  <line class="edge" x1="680" y1="1224" x2="490" y2="788"/>
+  <line class="edge" x1="680" y1="1224" x2="110" y2="584"/>
+  <line class="edge" x1="680" y1="1224" x2="680" y2="448"/>
+  <line class="edge" x1="680" y1="1224" x2="870" y2="1196"/>
+  <line class="edge" x1="680" y1="1224" x2="300" y2="516"/>
+  <line class="edge" x1="870" y1="1224" x2="870" y2="312"/>
+  <line class="edge" x1="110" y1="1292" x2="110" y2="380"/>
+  <line class="edge" x1="110" y1="1292" x2="870" y2="584"/>
+  <line class="edge" x1="110" y1="1292" x2="870" y2="312"/>
+  <line class="edge" x1="110" y1="1292" x2="300" y2="380"/>
+  <line class="edge" x1="300" y1="1292" x2="490" y2="584"/>
+  <line class="edge" x1="300" y1="1292" x2="490" y2="448"/>
+  <line class="edge" x1="300" y1="1292" x2="870" y2="312"/>
+  <line class="edge" x1="300" y1="1292" x2="680" y2="380"/>
+  <line class="edge" x1="300" y1="1292" x2="490" y2="1264"/>
+  <line class="edge" x1="300" y1="1292" x2="110" y2="584"/>
+  <line class="edge" x1="300" y1="1292" x2="680" y2="516"/>
+  <line class="edge" x1="300" y1="1292" x2="680" y2="448"/>
+  <line class="edge" x1="300" y1="1292" x2="870" y2="448"/>
+  <line class="edge" x1="300" y1="1292" x2="490" y2="1128"/>
+  <line class="edge" x1="300" y1="1292" x2="490" y2="516"/>
+  <line class="edge" x1="300" y1="1292" x2="110" y2="516"/>
+  <line class="edge" x1="490" y1="1292" x2="300" y2="40"/>
+  <line class="edge" x1="490" y1="1292" x2="490" y2="584"/>
+  <line class="edge" x1="490" y1="1292" x2="490" y2="448"/>
+  <line class="edge" x1="490" y1="1292" x2="870" y2="312"/>
+  <line class="edge" x1="490" y1="1292" x2="110" y2="584"/>
+  <line class="edge" x1="490" y1="1292" x2="680" y2="1264"/>
+  <line class="edge" x1="490" y1="1292" x2="680" y2="516"/>
+  <line class="edge" x1="490" y1="1292" x2="680" y2="652"/>
+  <line class="edge" x1="490" y1="1292" x2="300" y2="652"/>
+  <line class="edge" x1="490" y1="1292" x2="870" y2="448"/>
+  <line class="edge" x1="490" y1="1292" x2="870" y2="380"/>
+  <line class="edge" x1="490" y1="1292" x2="490" y2="516"/>
+  <line class="edge" x1="490" y1="1292" x2="110" y2="516"/>
+  <line class="edge" x1="490" y1="1292" x2="490" y2="652"/>
+  <line class="edge" x1="490" y1="1292" x2="870" y2="1264"/>
+  <line class="edge" x1="680" y1="1292" x2="490" y2="584"/>
+  <line class="edge" x1="680" y1="1292" x2="490" y2="448"/>
+  <line class="edge" x1="680" y1="1292" x2="870" y2="312"/>
+  <line class="edge" x1="680" y1="1292" x2="680" y2="380"/>
+  <line class="edge" x1="680" y1="1292" x2="680" y2="516"/>
+  <line class="edge" x1="680" y1="1292" x2="490" y2="516"/>
+  <line class="edge" x1="870" y1="1292" x2="110" y2="380"/>
+  <line class="edge" x1="870" y1="1292" x2="110" y2="516"/>
+  <line class="edge" x1="870" y1="1292" x2="870" y2="312"/>
+  <line class="edge" x1="870" y1="1292" x2="300" y2="380"/>
+  <line class="edge" x1="110" y1="1360" x2="870" y2="312"/>
+  <line class="edge" x1="110" y1="1360" x2="110" y2="380"/>
+  <line class="edge" x1="110" y1="1360" x2="870" y2="448"/>
+  <line class="edge" x1="110" y1="1360" x2="110" y2="516"/>
+  <line class="edge" x1="110" y1="1360" x2="300" y2="380"/>
+  <line class="edge" x1="300" y1="1360" x2="110" y2="380"/>
+  <line class="edge" x1="300" y1="1360" x2="870" y2="312"/>
+  <line class="edge" x1="300" y1="1360" x2="300" y2="380"/>
+  <line class="edge" x1="490" y1="1360" x2="870" y2="312"/>
+  <line class="edge" x1="490" y1="1360" x2="110" y2="380"/>
+  <line class="edge" x1="490" y1="1360" x2="870" y2="448"/>
+  <line class="edge" x1="490" y1="1360" x2="110" y2="1264"/>
+  <line class="edge" x1="490" y1="1360" x2="870" y2="380"/>
+  <line class="edge" x1="490" y1="1360" x2="300" y2="380"/>
+  <line class="edge" x1="680" y1="1360" x2="680" y2="380"/>
+  <line class="edge" x1="680" y1="1360" x2="110" y2="448"/>
+  <line class="edge" x1="680" y1="1360" x2="870" y2="380"/>
+  <line class="edge" x1="680" y1="1360" x2="300" y2="584"/>
+  <line class="edge" x1="680" y1="1360" x2="110" y2="516"/>
+  <line class="edge" x1="680" y1="1360" x2="870" y2="516"/>
+  <line class="edge" x1="680" y1="1360" x2="490" y2="652"/>
+  <line class="edge" x1="680" y1="1360" x2="490" y2="584"/>
+  <line class="edge" x1="680" y1="1360" x2="870" y2="584"/>
+  <line class="edge" x1="680" y1="1360" x2="490" y2="448"/>
+  <line class="edge" x1="680" y1="1360" x2="870" y2="312"/>
+  <line class="edge" x1="680" y1="1360" x2="870" y2="1332"/>
+  <line class="edge" x1="680" y1="1360" x2="680" y2="516"/>
+  <line class="edge" x1="680" y1="1360" x2="300" y2="652"/>
+  <line class="edge" x1="680" y1="1360" x2="680" y2="720"/>
+  <line class="edge" x1="680" y1="1360" x2="110" y2="1264"/>
+  <line class="edge" x1="680" y1="1360" x2="490" y2="516"/>
+  <line class="edge" x1="680" y1="1360" x2="110" y2="1400"/>
+  <line class="edge" x1="680" y1="1360" x2="680" y2="788"/>
+  <line class="edge" x1="680" y1="1360" x2="300" y2="788"/>
+  <line class="edge" x1="680" y1="1360" x2="300" y2="1332"/>
+  <line class="edge" x1="680" y1="1360" x2="110" y2="652"/>
+  <line class="edge" x1="680" y1="1360" x2="870" y2="448"/>
+  <line class="edge" x1="680" y1="1360" x2="870" y2="992"/>
+  <line class="edge" x1="680" y1="1360" x2="110" y2="1128"/>
+  <line class="edge" x1="680" y1="1360" x2="680" y2="40"/>
+  <line class="edge" x1="680" y1="1360" x2="110" y2="584"/>
+  <line class="edge" x1="680" y1="1360" x2="110" y2="380"/>
+  <line class="edge" x1="680" y1="1360" x2="300" y2="1128"/>
+  <line class="edge" x1="680" y1="1360" x2="870" y2="1264"/>
+  <line class="edge" x1="870" y1="1360" x2="490" y2="584"/>
+  <line class="edge" x1="870" y1="1360" x2="490" y2="448"/>
+  <line class="edge" x1="870" y1="1360" x2="870" y2="312"/>
+  <line class="edge" x1="870" y1="1360" x2="680" y2="380"/>
+  <line class="edge" x1="870" y1="1360" x2="110" y2="1196"/>
+  <line class="edge" x1="870" y1="1360" x2="110" y2="584"/>
+  <line class="edge" x1="870" y1="1360" x2="110" y2="380"/>
+  <line class="edge" x1="870" y1="1360" x2="300" y2="652"/>
+  <line class="edge" x1="870" y1="1360" x2="870" y2="448"/>
+  <line class="edge" x1="870" y1="1360" x2="870" y2="380"/>
+  <line class="edge" x1="870" y1="1360" x2="490" y2="516"/>
+  <line class="edge" x1="110" y1="1428" x2="490" y2="584"/>
+  <line class="edge" x1="110" y1="1428" x2="490" y2="448"/>
+  <line class="edge" x1="110" y1="1428" x2="870" y2="312"/>
+  <line class="edge" x1="110" y1="1428" x2="110" y2="380"/>
+  <line class="edge" x1="110" y1="1428" x2="300" y2="652"/>
+  <line class="edge" x1="110" y1="1428" x2="490" y2="516"/>
+  <line class="edge" x1="300" y1="1428" x2="490" y2="584"/>
+  <line class="edge" x1="300" y1="1428" x2="490" y2="448"/>
+  <line class="edge" x1="300" y1="1428" x2="870" y2="312"/>
+  <line class="edge" x1="300" y1="1428" x2="300" y2="108"/>
+  <line class="edge" x1="300" y1="1428" x2="680" y2="652"/>
+  <line class="edge" x1="300" y1="1428" x2="870" y2="448"/>
+  <line class="edge" x1="300" y1="1428" x2="300" y2="584"/>
+  <line class="edge" x1="300" y1="1428" x2="110" y2="516"/>
+  <line class="edge" x1="300" y1="1428" x2="490" y2="652"/>
+  <rect class="node" x="40" y="40" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="58">Azure.Core</text>
+  <rect class="node" x="230" y="40" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="58">System.Threading.Tas…</text>
+  <rect class="node" x="420" y="40" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="58">System.Runtime.Compi…</text>
+  <rect class="node" x="610" y="40" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="58">System.Diagnostics.D…</text>
+  <rect class="node" x="800" y="40" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="58">System.Memory</text>
+  <rect class="node" x="40" y="108" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="126">System.Numerics.Vect…</text>
+  <rect class="node" x="230" y="108" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="126">System.Buffers</text>
+  <rect class="node" x="420" y="108" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="126">System.Memory.Data</text>
+  <rect class="node" x="610" y="108" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="126">System.Text.Json</text>
+  <rect class="node" x="800" y="108" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="126">System.ValueTuple</text>
+  <rect class="node" x="40" y="176" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="194">Microsoft.Bcl.AsyncI…</text>
+  <rect class="node" x="230" y="176" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="194">System.IO.Pipelines</text>
+  <rect class="node" x="420" y="176" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="194">System.Text.Encoding…</text>
+  <rect class="node" x="610" y="176" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="194">System.ClientModel</text>
+  <rect class="node" x="800" y="176" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="194">Microsoft.Extensions…</text>
+  <rect class="node" x="40" y="244" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="262">Microsoft.Extensions…</text>
+  <rect class="node" x="230" y="244" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="262">Microsoft.Extensions…</text>
+  <rect class="node" x="420" y="244" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="262">Microsoft.Extensions…</text>
+  <rect class="node" x="610" y="244" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="262">Microsoft.Extensions…</text>
+  <rect class="node" x="800" y="244" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="262">Microsoft.Extensions…</text>
+  <rect class="node" x="40" y="312" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="330">Microsoft.Extensions…</text>
+  <rect class="node" x="230" y="312" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="330">Microsoft.Extensions…</text>
+  <rect class="node" x="420" y="312" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="330">System.ComponentMode…</text>
+  <rect class="node" x="610" y="312" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="330">System.ComponentMode…</text>
+  <rect class="node" x="800" y="312" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="330">System.Runtime</text>
+  <rect class="node" x="40" y="380" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="398">Microsoft.NETCore.Pl…</text>
+  <rect class="node" x="230" y="380" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="398">Microsoft.NETCore.Ta…</text>
+  <rect class="node" x="420" y="380" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="398">NETStandard.Library</text>
+  <rect class="node" x="610" y="380" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="398">System.Threading</text>
+  <rect class="node" x="800" y="380" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="398">System.Threading.Tas…</text>
+  <rect class="node" x="40" y="448" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="466">System.Diagnostics.T…</text>
+  <rect class="node" x="230" y="448" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="466">System.AppContext</text>
+  <rect class="node" x="420" y="448" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="466">System.Resources.Res…</text>
+  <rect class="node" x="610" y="448" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="466">System.Reflection</text>
+  <rect class="node" x="800" y="448" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="466">System.IO</text>
+  <rect class="node" x="40" y="516" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="534">System.Text.Encoding</text>
+  <rect class="node" x="230" y="516" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="534">System.Reflection.Pr…</text>
+  <rect class="node" x="420" y="516" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="534">System.Globalization</text>
+  <rect class="node" x="610" y="516" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="534">System.Collections</text>
+  <rect class="node" x="800" y="516" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="534">System.Security.Cryp…</text>
+  <rect class="node" x="40" y="584" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="602">System.Diagnostics.D…</text>
+  <rect class="node" x="230" y="584" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="602">System.IO.Compressio…</text>
+  <rect class="node" x="420" y="584" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="602">System.Runtime.Exten…</text>
+  <rect class="node" x="610" y="584" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="602">runtime.native.Syste…</text>
+  <rect class="node" x="800" y="584" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="602">System.Runtime.Handl…</text>
+  <rect class="node" x="40" y="652" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="670">runtime.native.Syste…</text>
+  <rect class="node" x="230" y="652" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="670">System.Runtime.Inter…</text>
+  <rect class="node" x="420" y="652" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="670">System.IO.FileSystem</text>
+  <rect class="node" x="610" y="652" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="670">System.IO.FileSystem…</text>
+  <rect class="node" x="800" y="652" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="670">System.Threading.Tim…</text>
+  <rect class="node" x="40" y="720" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="738">System.Reflection.Ex…</text>
+  <rect class="node" x="230" y="720" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="738">System.Runtime.Inter…</text>
+  <rect class="node" x="420" y="720" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="738">System.Collections.C…</text>
+  <rect class="node" x="610" y="720" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="738">System.Security.Cryp…</text>
+  <rect class="node" x="800" y="720" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="738">System.Globalization…</text>
+  <rect class="node" x="40" y="788" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="806">System.Security.Cryp…</text>
+  <rect class="node" x="230" y="788" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="806">System.Security.Cryp…</text>
+  <rect class="node" x="420" y="788" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="806">System.Linq</text>
+  <rect class="node" x="610" y="788" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="806">runtime.native.Syste…</text>
+  <rect class="node" x="800" y="788" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="806">runtime.opensuse.42.…</text>
+  <rect class="node" x="40" y="856" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="874">runtime.fedora.27-x6…</text>
+  <rect class="node" x="230" y="856" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="874">runtime.fedora.23-x6…</text>
+  <rect class="node" x="420" y="856" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="874">runtime.ubuntu.14.04…</text>
+  <rect class="node" x="610" y="856" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="874">runtime.opensuse.42.…</text>
+  <rect class="node" x="800" y="856" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="874">runtime.debian.8-x64…</text>
+  <rect class="node" x="40" y="924" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="942">runtime.rhel.7-x64.r…</text>
+  <rect class="node" x="230" y="924" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="942">runtime.ubuntu.16.04…</text>
+  <rect class="node" x="420" y="924" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="942">runtime.debian.9-x64…</text>
+  <rect class="node" x="610" y="924" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="942">runtime.opensuse.13.…</text>
+  <rect class="node" x="800" y="924" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="942">runtime.osx.10.10-x6…</text>
+  <rect class="node" x="40" y="992" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="1010">runtime.ubuntu.18.04…</text>
+  <rect class="node" x="230" y="992" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="1010">runtime.fedora.24-x6…</text>
+  <rect class="node" x="420" y="992" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="1010">runtime.fedora.28-x6…</text>
+  <rect class="node" x="610" y="992" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="1010">runtime.ubuntu.16.10…</text>
+  <rect class="node" x="800" y="992" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="1010">System.Security.Cryp…</text>
+  <rect class="node" x="40" y="1060" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="1078">runtime.native.Syste…</text>
+  <rect class="node" x="230" y="1060" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="1078">runtime.osx.10.10-x6…</text>
+  <rect class="node" x="420" y="1060" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="1078">System.Runtime.Numer…</text>
+  <rect class="node" x="610" y="1060" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="1078">System.Formats.Asn1</text>
+  <rect class="node" x="800" y="1060" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="1078">System.Security.Cryp…</text>
+  <rect class="node" x="40" y="1128" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="1146">System.Security.Cryp…</text>
+  <rect class="node" x="230" y="1128" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="1146">runtime.native.Syste…</text>
+  <rect class="node" x="420" y="1128" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="1146">System.Diagnostics.T…</text>
+  <rect class="node" x="610" y="1128" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="1146">System.Linq.Expressi…</text>
+  <rect class="node" x="800" y="1128" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="1146">System.Reflection.Em…</text>
+  <rect class="node" x="40" y="1196" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="1214">System.ObjectModel</text>
+  <rect class="node" x="230" y="1196" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="1214">System.Reflection.Em…</text>
+  <rect class="node" x="420" y="1196" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="1214">System.Reflection.Em…</text>
+  <rect class="node" x="610" y="1196" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="1214">System.Reflection.Ty…</text>
+  <rect class="node" x="800" y="1196" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="1214">System.Diagnostics.C…</text>
+  <rect class="node" x="40" y="1264" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="1282">System.Net.Primitive…</text>
+  <rect class="node" x="230" y="1264" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="1282">System.Xml.XDocument</text>
+  <rect class="node" x="420" y="1264" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="1282">System.Xml.ReaderWri…</text>
+  <rect class="node" x="610" y="1264" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="1282">System.Text.RegularE…</text>
+  <rect class="node" x="800" y="1264" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="1282">System.Text.Encoding…</text>
+  <rect class="node" x="40" y="1332" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="1350">System.Console</text>
+  <rect class="node" x="230" y="1332" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="1350">Microsoft.Win32.Prim…</text>
+  <rect class="node" x="420" y="1332" width="140" height="28" rx="4"/>
+  <text class="label" x="425" y="1350">System.Net.Sockets</text>
+  <rect class="node" x="610" y="1332" width="140" height="28" rx="4"/>
+  <text class="label" x="615" y="1350">System.Net.Http</text>
+  <rect class="node" x="800" y="1332" width="140" height="28" rx="4"/>
+  <text class="label" x="805" y="1350">System.Runtime.Windo…</text>
+  <rect class="node" x="40" y="1400" width="140" height="28" rx="4"/>
+  <text class="label" x="45" y="1418">System.Globalization…</text>
+  <rect class="node" x="230" y="1400" width="140" height="28" rx="4"/>
+  <text class="label" x="235" y="1418">System.IO.Compressio…</text>
+</svg>

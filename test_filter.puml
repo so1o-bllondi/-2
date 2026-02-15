@@ -1,0 +1,6 @@
+@startuml
+skinparam defaultFontName Arial
+
+  "A" --> "B"
+  "B" --> "D"
+@enduml
